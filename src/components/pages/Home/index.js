@@ -1,5 +1,4 @@
 import React from 'react';
-import background from '../../../assets/img/background.png';
 import './style.css';
 import Menu from '../../Menu';
 import sobre from '../../../assets/img/sobre.jpg';
@@ -13,11 +12,11 @@ function Home() {
       <div className="Home container">
         <div className="row text-center">
           <div className="col-md-6">
-            <img src={sobre} className="imgSobre"/>
+            <img src={sobre} className="imgSobre" alt="Ana Lucia Rizzi"/>
           </div>
           <div className="col-md-6">
-            <h1>Ana Lucia Rizzi</h1>
-            <h3>Desenvolvedora back-end em início de carreira</h3>
+            <h1 className="fonteTitulo">Ana Lucia Rizzi</h1>
+            <h3 className="fonteSubtitulo">Desenvolvedora back-end em início de carreira</h3>
 
             <ul className="ulHome">
               <li>Foco em C# e Asp.net MVC</li>
@@ -29,7 +28,6 @@ function Home() {
             </ul>
             <br/>
             <p>Conheça mais <Link to="/sobre" className="linkHome">sobre mim</Link>
-            , <Link to="/sobre" className="linkHome">sobre meus estudos</Link>
             , veja <Link to="/portfolio" className="linkHome">meu portfólio
             </Link> e <Link to="/contato" className="linkHome">entre em contato</Link>!</p>
 

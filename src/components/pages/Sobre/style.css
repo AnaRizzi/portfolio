@@ -1,3 +1,33 @@
 .sobre{
-    padding-top: 60px;
+    padding: 90px 10% 20px 10%; 
+    background-image: url("../../../assets/img/background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100vh;
+}
+
+.textoSobre{
+    width: 70%;
+    margin: auto;
+}
+
+.ulFormacao{
+    list-style-position: inside;
+    list-style-type: circle;
+    padding: 0;
+}
+
+.ulFormacao li{
+    margin-top:15px;
+}
+
+
+
+@media screen and (max-width: 1000px){
+    .textoSobre{
+        width: 90%;
+        margin: auto;
+    }
 }
