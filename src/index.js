@@ -1,16 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Home from './components/Home/index.js';
+import Home from './components/pages/Home';
 import {
   BrowserRouter,
   Switch,
   Route,
 } from "react-router-dom";
-import Sobre from './components/Sobre';
-import Portfolio from './components/Portfolio';
-import Erro from './components/Erro';
-import Contato from './components/Contato';
+import Sobre from './components/pages/Sobre';
+import Portfolio from './components/pages/Portfolio';
+import Erro from './components/pages/Erro';
+import Contato from './components/pages/Contato';
 
 
 ReactDOM.render(

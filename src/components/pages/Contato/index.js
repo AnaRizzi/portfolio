@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css';
-import Menu from '../Menu';
+import Menu from '../../Menu';
 
 function Contato() {
   return (

@@ -1,0 +1,56 @@
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+.Home{
+  padding: 90px 10% 20px 10%; 
+  background-image: url("../../../assets/img/background.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  min-width: 100%;
+  min-height: 100vh;
+}
+
+.row{
+  align-items: center;
+}
+
+.imgSobre{
+  width: 50%;
+  max-width: 300px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+ul.ulHome{
+  list-style-position: inside;
+  list-style-type: circle;
+  margin: 0;
+  margin-top: 15px;
+  font-style: italic;
+}
+
+.linkHome{
+  color: black;
+}
+
+.linkHome:hover{
+  color: rgb(50,50,5  0);
+  text-decoration: none;
+}
+
+@media (max-width: 768px){
+  .imgSobre{
+    max-width: 40%;
+  }
+}
