@@ -1,4 +1,22 @@
 .portfolio{
-    padding-top: 60px;
+    padding: 90px 10px 20px 10px;
+    background-image: url("../../../assets/img/background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100vh;
+}
 
+.card-group{
+    margin: auto;
+}
+
+.containerCard{
+    padding: 40px;
+}
+
+
+.CSharp{
+    display: block;
 }
