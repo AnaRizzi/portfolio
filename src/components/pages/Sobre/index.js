@@ -33,7 +33,7 @@ function Sobre() {
               <br/>
               <h4 className="fonteSubtitulo">Experiência:</h4>
               <p>Sei que este é o tópico considerado mais importante para 90% dos recrutadores, mas sinto desapontá-los: eu ainda não possuo experiência na área.</p>
-              <p>Ainda assim, possuo experiência em outras áreas (trabalhei 7 anos em editoras), possuo experiência em estudos, possuo experiência em correr atrás do que eu não sei e pesquisar até entender e conseguir fazer, porém, quanto à experiência de trabalho comprovada na área de desenvolvimento, eu espero conseguir muito em breve, mas até o momento, podem contar com a minha boa vontade, a minha disposição em aprender e a certeza de que sempre me esforçarei ao máximo para provar que eu mereço estar aqui. </p>
+              <p>Ainda assim, possuo experiência em outras áreas (trabalhei 7 anos em editoras), possuo experiência em desenvolver projetos para estudos, possuo experiência em correr atrás do que eu não sei e pesquisar até entender e conseguir fazer, porém, quanto à experiência de trabalho comprovada na área de desenvolvimento, eu espero conseguir muito em breve, mas até o momento, podem contar com a minha boa vontade, a minha disposição em aprender e a certeza de que sempre me esforçarei ao máximo para provar que eu mereço estar aqui. </p>
 
 
             </div>

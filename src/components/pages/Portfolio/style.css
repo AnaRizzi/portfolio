@@ -20,3 +20,9 @@
 .CSharp{
     display: block;
 }
+
+@media (max-width: 767px){
+    .containerCard{
+        padding-bottom: 20px;
+    }
+}

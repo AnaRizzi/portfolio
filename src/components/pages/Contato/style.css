@@ -1,3 +1,29 @@
 .contato{
-    padding-top: 60px;
+    padding: 90px 10% 20px 10%; 
+    background-image: url("../../../assets/img/background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100vh;
+}
+
+.conteudoContato{
+    width: 50%;
+    margin: auto;
+}
+
+
+.imgContato{
+    max-width: 70px;
+}
+
+.tipoContato{
+    margin: 40px;
+}
+
+@media (max-width: 700px){
+    .conteudoContato{
+        width: 90%;
+    }
 }

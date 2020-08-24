@@ -19,7 +19,7 @@ function Home() {
             <h3 className="fonteSubtitulo">Desenvolvedora back-end em início de carreira</h3>
 
             <ul className="ulHome">
-              <li>Foco em C# e Asp.net MVC</li>
+              <li>C# e Asp.net MVC</li>
               <li>Conhecimentos em Javascript e Node.js</li>
               <li>Conhecimentos em versionamento (Git/GitHub)</li>
               <li>HTML, CSS e Bootstrap</li>

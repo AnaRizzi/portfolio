@@ -1,3 +1,31 @@
 .erro{
-    padding-top: 60px;
+    padding: 90px 10% 20px 10%; 
+    background-image: url("../../../assets/img/background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100vh;
+}
+
+.imgErro{
+    display: none;
+}
+
+.erroTelaGrande{
+    display: block;
+}
+
+
+@media (max-width: 700px){
+    .imgErro{
+        display: block;
+        width: 80%;
+        margin-top: 30px;
+        margin: auto;
+    }
+
+    .erroTelaGrande{
+        display: none;
+    }
 }
