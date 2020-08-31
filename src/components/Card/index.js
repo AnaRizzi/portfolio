@@ -14,9 +14,9 @@ export default function MyCard(props){
                 
             </div>
             <div className="text-center botao">
-                <a href="/portfolio" className="btn btn-sm btn-primary">Detalhes</a>
                 <a href={props.github} target="_blank" rel="noopener noreferrer"> <img src={github} alt="github" className="github" /> </a>
             </div>
+
             <div className="card-footer">
             <small className="text-muted">{props.linguagens}</small>
             </div>
@@ -24,3 +24,5 @@ export default function MyCard(props){
 
     )
 }
+
+

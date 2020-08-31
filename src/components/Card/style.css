@@ -21,6 +21,17 @@
     margin-left:20px
 }
 
+a{
+    color: rgb(0,0,0);
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(50,50,50);
+    font-weight: bold;
+    text-decoration: none;
+}
+
 @media (max-width: 500px){
     .card{
         min-width: 230px;
