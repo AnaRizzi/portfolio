@@ -16,7 +16,7 @@ function Home() {
           </div>
           <div className="col-md-6">
             <h1 className="fonteTitulo">Ana Lucia Rizzi</h1>
-            <h3 className="fonteSubtitulo">Desenvolvedora back-end em início de carreira</h3>
+            <h3 className="fonteSubtitulo">Desenvolvedora back-end Jr.</h3>
 
             <ul className="ulHome">
               <li>C# e Asp.net MVC</li>

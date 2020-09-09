@@ -21,7 +21,7 @@ export default function Menu(){
                         <Link to="/sobre" className="nav-link">Sobre</Link>
                     </li>
                     <li className="nav-item active">
-                        <Link to="/projetos" className="nav-link">Portfólio</Link>
+                        <Link to="/portfolio" className="nav-link">Portfólio</Link>
                     </li>
                     <li className="nav-item active">
                         <Link to="/contato" className="nav-link">Contato</Link>

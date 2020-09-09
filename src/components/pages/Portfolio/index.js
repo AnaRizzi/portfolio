@@ -10,6 +10,7 @@ import hannah from '../../../assets/img/portfolio/hannah1000x600.png'
 import pokestore from '../../../assets/img/portfolio/pokestore1000x600.png'
 import covid from '../../../assets/img/portfolio/sitecovid1000x600.png'
 import cep from '../../../assets/img/portfolio/cep1000x600.png'
+import folhasvivas from '../../../assets/img/portfolio/folhasvivas1000x600.png'
 
 
 function Portfolio() {
@@ -46,6 +47,20 @@ function Portfolio() {
             A ideia deste site foi mostrar um pouco dos meus conhecimentos e da minha história, além de ser um incentivo para estudar outras tecnologias, como o React.
             </MyCard>
           </div> 
+
+          <div className="col-md-6 col-lg-4 containerCard React Html">
+            <MyCard src={folhasvivas} alt="Folhas Vivas" 
+            titulo="Site de leitura por assinatura" 
+            linguagens="PHP | HTML | CSS | Javascript" 
+            github="https://github.com/AnaRizzi/folhas_vivas"
+            >
+            Sistema desenvolvido para o desafio do Mega Hack Women pela equipe Stars Tech.
+            <br/>
+            Desenvolvimento de todo o back-end e banco de dados do sistema Folhas Vivas, para aumentar o interesse das crianças pela leitura. A princípio, o site foi desenvolvido apenas para ser acessado pelo celular.
+            <br/><br/>
+            Acesse a versão inicial do site <a href="http://folhasvivas.tecnologia.ws/" target="_blank" rel="noopener noreferrer">clicando aqui.</a>
+            </MyCard>
+          </div>
 
           <div className="col-md-6 col-lg-4 containerCard CSharp">
             <MyCard src={cep} alt="Busca de Cep" 
