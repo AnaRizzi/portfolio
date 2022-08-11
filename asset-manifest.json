@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f099ea54.chunk.css",
+    "main.js": "/portfolio/static/js/main.e0ca264e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e0ca264e.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.c5bad38c.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.c5bad38c.js.map",
+    "static/js/2.2f029c17.chunk.js": "/portfolio/static/js/2.2f029c17.chunk.js",
+    "static/js/2.2f029c17.chunk.js.map": "/portfolio/static/js/2.2f029c17.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.fa0b83d39e3f3597786125429be718c4.js": "/portfolio/precache-manifest.fa0b83d39e3f3597786125429be718c4.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.f099ea54.chunk.css.map": "/portfolio/static/css/main.f099ea54.chunk.css.map",
+    "static/js/2.2f029c17.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2f029c17.chunk.js.LICENSE.txt",
+    "static/media/anaRizziClaro.png": "/portfolio/static/media/anaRizziClaro.0698ba23.png",
+    "static/media/anabnb1000x600.png": "/portfolio/static/media/anabnb1000x600.7f23c643.png",
+    "static/media/style.css": "/portfolio/static/media/background.21af21eb.png",
+    "static/media/bancos1000x600.png": "/portfolio/static/media/bancos1000x600.946d0b83.png",
+    "static/media/cep1000x600.png": "/portfolio/static/media/cep1000x600.6e0ae542.png",
+    "static/media/docesrizzi1000x600.png": "/portfolio/static/media/docesrizzi1000x600.8ba94e9e.png",
+    "static/media/email.png": "/portfolio/static/media/email.21f96c3f.png",
+    "static/media/erro.jpg": "/portfolio/static/media/erro.bfb9ef34.jpg",
+    "static/media/hannah1000x600.png": "/portfolio/static/media/hannah1000x600.3b1c31b8.png",
+    "static/media/nice_face1000x600.png": "/portfolio/static/media/nice_face1000x600.fa8b07ff.png",
+    "static/media/portfolio1000x600.png": "/portfolio/static/media/portfolio1000x600.65c0feb7.png",
+    "static/media/rabbit1000x600.png": "/portfolio/static/media/rabbit1000x600.a266fb31.png",
+    "static/media/receitas1000x600.png": "/portfolio/static/media/receitas1000x600.2b30aece.png",
+    "static/media/sobre.jpg": "/portfolio/static/media/sobre.ce73fe16.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5bad38c.js",
+    "static/js/2.2f029c17.chunk.js",
+    "static/css/main.f099ea54.chunk.css",
+    "static/js/main.e0ca264e.chunk.js"
+  ]
+}
