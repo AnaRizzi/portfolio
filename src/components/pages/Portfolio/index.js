@@ -41,7 +41,7 @@ function Portfolio() {
             <MyCard src={bancos} alt="Bancos de dados"
               titulo="API para testar banco de dados"
               linguagens="C# | MySql | PostgreSql | MongoDB"
-              github="https://github.com/AnaRizzi/API_Receita_Surpresa"
+              github="https://github.com/AnaRizzi/teste_bancos"
             >
               API que conecta ao MySql usando Entity Framework, ao PostgreSql usando Dapper e ao MongoDB.
               <br />
