@@ -14,14 +14,14 @@ import Contato from './components/pages/Contato';
 
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Switch>
       <Route path="/" component={Home} exact />
       <Route path="/sobre" component={Sobre} exact />
       <Route path="/portfolio" component={Portfolio} exact />
       <Route path="/contato" component={Contato} exact />
       <Route path="/erro" component={Erro} exact />
-      <Route component={Erro}/>
+      <Route component={Erro} />
     </Switch>
   </BrowserRouter>,
 
